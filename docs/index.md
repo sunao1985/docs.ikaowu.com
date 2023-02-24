@@ -1,0 +1,26 @@
+---
+home: true
+heroText: 
+heroImage: /images/hero.png
+tagline: '打造一站式产品知识库，助您事半功倍'
+pageClass: page-home
+
+actions:
+#   - text: 进博客
+#     link: /
+#     type: primary
+#   - text: 我是谁
+#     link: /about.html
+#     type: secondary
+
+features:
+  - title: 轻松获取
+    details: 了解你想要的一切
+  - title: 从容无忧
+    details: 快速定位智能搜索
+  - title: 与你同行
+    details: 及时获取最新内容
+
+footer: Write by <a href="http://www.pintecher.com">Pintecher·品格科技</a> <br> <small>· 转载请注明来源于 ikaowu.com · <br> <a href="https://beian.miit.gov.cn/" target="_blank">皖ICP备18008522号-4</a> </small>
+footerHtml: true
+---

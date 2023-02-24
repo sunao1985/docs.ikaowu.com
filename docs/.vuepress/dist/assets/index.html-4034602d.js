@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-82434da6","path":"/enroll/entry/","title":"系统简介","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"系统特色","slug":"系统特色","link":"#系统特色","children":[]},{"level":2,"title":"系统技术特点","slug":"系统技术特点","link":"#系统技术特点","children":[]}],"git":{},"filePathRelative":"enroll/entry/index.md"}');export{e as data};

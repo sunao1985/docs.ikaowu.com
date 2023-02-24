@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-62e4181e","path":"/enroll/enroll-pay/","title":"支付配置流程","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"enroll/enroll-pay/index.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7e6d1b9e","path":"/enroll/entry/%E6%B6%88%E6%81%AF%E7%AE%A1%E7%90%86.html","title":"消息管理","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"短信记录","slug":"短信记录","link":"#短信记录","children":[]},{"level":2,"title":"站内信","slug":"站内信","link":"#站内信","children":[]}],"git":{},"filePathRelative":"enroll/entry/消息管理.md"}');export{e as data};

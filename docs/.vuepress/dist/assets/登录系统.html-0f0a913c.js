@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-765690f6","path":"/enroll/entry/%E7%99%BB%E5%BD%95%E7%B3%BB%E7%BB%9F.html","title":"登录系统","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"enroll/entry/登录系统.md"}');export{t as data};

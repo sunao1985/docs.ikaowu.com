@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b5480e28","path":"/enroll/entry/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE.html","title":"系统设置","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"基本信息","slug":"基本信息","link":"#基本信息","children":[]},{"level":2,"title":"支付接口","slug":"支付接口","link":"#支付接口","children":[]}],"git":{},"filePathRelative":"enroll/entry/系统设置.md"}');export{e as data};
