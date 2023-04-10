@@ -35,7 +35,7 @@ export default defineUserConfig({
     },
     theme: defaultTheme({
         logo: null,
-        backToHome: '回到 Fromidea 首页',
+        backToHome: '回到 爱考务知识库 首页',
         notFound: ['迷路了？不要紧。'],
         navbar: navbar,
         sidebar: sidebar,
